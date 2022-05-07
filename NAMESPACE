@@ -1,0 +1,13 @@
+export(optEdges, optNNI, quantml)
+
+S3method(logLik, quantml)
+S3method(plot, quantml)
+S3method(print, quantml)
+S3method(root, quantml)
+
+importFrom(ape, multi2di, pic, root)
+importFrom(methods, hasArg)
+importFrom(phangorn, nni)
+importFrom(phytools, plotTree)
+importFrom(stats, dnorm, logLik, optim)
+importFrom(utils, flush.console)

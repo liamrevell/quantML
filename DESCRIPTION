@@ -1,0 +1,16 @@
+Package: quantML
+Version: 0.1
+Date: 2022-05-07
+Title: REML estimation of evolutionary trees from quantitative traits
+Author: Liam J. Revell
+Maintainer: Liam J. Revell <liam.revell@umb.edu>
+Depends: R (>= 4.0.0), ape (>= 5.5)
+Imports: methods, phangorn (>= 2.8.1), phytools (>= 1.0.3)
+Suggests: 
+ZipData: no
+Description: Estimation of evolutionary trees from quantitative traits.
+License: GPL (>= 2)
+URL: https://github.com/liamrevell/quantML
+Packaged: 
+Repository: 
+Date/Publication:
